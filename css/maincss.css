@@ -5,9 +5,7 @@ body{
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url(../img/bg.jpg) 0px -126px;
-    background-size: 1431px;
-    background-repeat: no-repeat;
+    background: url(../img/bg.jpg) no-repeat center center/cover;
 }
 .left{
     font-weight: bold;
